@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>指令</title>
+      <link href="/2020/09/02/%E6%8C%87%E4%BB%A4/"/>
+      <url>/2020/09/02/%E6%8C%87%E4%BB%A4/</url>
+      
+        <content type="html"><![CDATA[<h1 id="创建新的文件夹"><a href="#创建新的文件夹" class="headerlink" title="创建新的文件夹"></a>创建新的文件夹</h1><p>hexo new 名字</p><h1 id="开启本地测试"><a href="#开启本地测试" class="headerlink" title="开启本地测试"></a>开启本地测试</h1><p>hexo s</p><h1 id="生成静态网页"><a href="#生成静态网页" class="headerlink" title="生成静态网页"></a>生成静态网页</h1><p>hexo g</p><h1 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h1><p>hexo d</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 指令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>想下载b站视频？没问题！包在我身上！</title>
       <link href="/2020/04/14/%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD/"/>
       <url>/2020/04/14/%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD/</url>
